@@ -1,4 +1,4 @@
-module gitlab.com/codes4coffee/bag-tag-server
+module github.com/codes4coffee/bag-tag-server
 
 go 1.13
 
